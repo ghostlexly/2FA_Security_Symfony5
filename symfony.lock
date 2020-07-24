@@ -1,4 +1,13 @@
 {
+    "2amigos/2fa-library": {
+        "version": "2.0.2"
+    },
+    "2amigos/qrcode-library": {
+        "version": "2.0.0"
+    },
+    "bacon/bacon-qr-code": {
+        "version": "1.0.3"
+    },
     "composer/package-versions-deprecated": {
         "version": "1.10.99"
     },
@@ -84,6 +93,9 @@
     "egulias/email-validator": {
         "version": "2.1.18"
     },
+    "khanamiryan/qrcode-detector-decoder": {
+        "version": "1.0.3"
+    },
     "laminas/laminas-code": {
         "version": "3.4.1"
     },
@@ -101,6 +113,9 @@
     },
     "ocramius/proxy-manager": {
         "version": "2.8.0"
+    },
+    "paragonie/constant_time_encoding": {
+        "version": "v2.3.0"
     },
     "php": {
         "version": "7.4"
